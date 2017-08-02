@@ -2,7 +2,7 @@
 Fun with GitHub
 
 
-##small header
+## small header
 
--bullet 1
--bullet 2
+- bullet 1
+- bullet 2
